@@ -1,0 +1,13 @@
+/* List.css */
+.list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+/* 如果需要水平滚动，可以取消注释下面的样式 */
+/*.list {
+  flex-direction: row;
+  overflow-x: auto;
+  white-space: nowrap;
+}*/

@@ -1,0 +1,16 @@
+/* Item.css */
+.item {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+
+.item h3 {
+  margin: 0 0 5px 0;
+}
+
+.item p {
+  margin: 0;
+}
