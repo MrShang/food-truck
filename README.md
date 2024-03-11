@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with food-truck
+
+This project is the front-end of [food-truck-api](https://github.com/MrShang/food-truck-api)
 
 ## Available Scripts
 
